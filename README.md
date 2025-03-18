@@ -6,9 +6,6 @@ This is a **React** and **FastAPI** project for managing a list of fruits. It al
 
 - **Frontend**: React with Vite
 - **Backend**: FastAPI
-- **Dependency Management**:
-  - Frontend: npm
-  - Backend: venv and pip
 
 ## 📥 Installation and Setup
 
